@@ -1,1 +1,2 @@
-src/dataSource.ts
+node_modules
+.env
